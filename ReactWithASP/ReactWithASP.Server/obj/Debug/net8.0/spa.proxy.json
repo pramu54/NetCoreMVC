@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Kerja\\Padepokan79\\Kelas Teknologi\\Gap Analysis\\Net core\\ReactWithASP\\ReactWithASP.Server\\..\\reactwithasp.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
